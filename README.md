@@ -18,7 +18,22 @@ No meu tempo livre, gosto de estar com a minha família, acompanhar eventos espo
 
 ## Experiência Profissional
 
-**Scrum Master** - NDD - Dezembro 2020 - Presente
+**Desenvolvedor de software** - AmbevTech - Outubro 2021 - Presente
+
+> Responsabilidades principais:
+* RAuxiliar Squad no desenvolvimento de novas features;
+* Auxiliar Squad na manutenção do produto, melhorando e corrigindo bugs;
+* Apoiar o time com refinamentos;
+* Apoiar o time em decisões de arquitetura;
+* Apoiar o time nas cerimonias;
+* Criação de Pull Requests, code review, auxilio técnico a outros desenvolvedores;
+* Desenvolvimento de microsserviços;
+* Trabalhando com Azure DevOps;
+* Criação de pipelines;
+* Criação de bibliotecas no NUGET;
+* Utilização de DDD e TDD.
+
+**Scrum Master** - NDD - Dezembro 2020 - Outubro 2021
 
 > Responsabilidades principais:
 * Remover os impedimentos;
@@ -62,7 +77,6 @@ No meu tempo livre, gosto de estar com a minha família, acompanhar eventos espo
 * Utilização de tecnologias como Java, GWT, HTML, CSS, SQL, JavaScript, WebServices, Restful Json, Java EE, Postgree e Oracle;
 * Utilização de ferramentas como IDE Eclipse, Ireport, SQLDeveloper, PgAdmin e Apache Tomcat.
 
-
 ## Formação
 
 **TI em IFSC - Instituto Federal de Santa Catarina** - Janeiro 2013 - Dezembro 2015
@@ -87,7 +101,7 @@ No meu tempo livre, gosto de estar com a minha família, acompanhar eventos espo
 
 ## Certificações
 
-* Certified ScrumMaster (CSM) - k21
+* Certified ScrumMaster (CSM) - K21
 * Certified ScrumMaster (CSM) - Scrum Alliance
 * Kanban Systems Improvement (KMP II) - Kanban University
 * Kanban System Design (KMP I) - Kanban University
@@ -100,6 +114,7 @@ No meu tempo livre, gosto de estar com a minha família, acompanhar eventos espo
 * Jornada Globo Day - Liderança, Gestão, Agilidade e Produto - Globo
 * Open Dojo - Globo
 * UX Design de Interação - Universidade do Planalto Catarinense - Uniplac
+* Clean Code e Clean Architecture - Rodrigo Branas - Turma 3
 
 ## Habilidades Específicas
 
@@ -107,4 +122,5 @@ No meu tempo livre, gosto de estar com a minha família, acompanhar eventos espo
 * Linguagens de programação C#, Java, JavaScript, CSS, PHP, AngularJS, SQL;
 * Agilidade Scrum, Kanban, Métricas, Cerimônias;
 * Team Foundation Service (TFS), Visual Studio, VSCode, Git.
-* Azure, Azure DevOps.
+* Azure, Azure DevOps;
+* Code Review, Clean Code, Clean Architecture.
