@@ -21,7 +21,7 @@ No meu tempo livre, gosto de estar com a minha família, acompanhar eventos espo
 **Desenvolvedor de software** - AmbevTech - Outubro 2021 - Presente
 
 > Responsabilidades principais:
-* RAuxiliar Squad no desenvolvimento de novas features;
+* Auxiliar Squad no desenvolvimento de novas features;
 * Auxiliar Squad na manutenção do produto, melhorando e corrigindo bugs;
 * Apoiar o time com refinamentos;
 * Apoiar o time em decisões de arquitetura;
