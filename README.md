@@ -53,7 +53,7 @@ No meu tempo livre, gosto de estar com a minha família, acompanhar eventos espo
 * Ajudar novos membros/estagiários a entender a arquitetura de todos os sistemas;
 * Modelar dados e procurar soluções arquiteturais para desenvolvimento de novas features.
 
-**Software Developer** - Agência Estúdio Sul - Junho 2016 - Outubro 2020
+**Software Developer** - Agência Estúdio Sul - Junho 2016 - Outubro 2016
 
 > Responsabilidades principais:
 * Criação de E-commerce(s), Sites e Blogs;
